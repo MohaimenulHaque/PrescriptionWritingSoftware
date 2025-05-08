@@ -41,6 +41,7 @@ Benefits
 •	Enhances data retrieval for follow-up visits
 
 
+
 ![image alt](https://github.com/MohaimenulHaque/PrescriptionWritingSoftware/blob/7904b50c80ea01fb7676e0a0706d1e0877d97b17/PWS.png)
 
 
