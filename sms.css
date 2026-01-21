@@ -132,7 +132,7 @@ td{
 .Form{
     height: auto;
     width: 600px;
-    background: #e5b1b1;
+    /* background: #e5b1b1; */
     margin-left: 50px;
 }
 div{
@@ -141,7 +141,7 @@ div{
 .message{
     height: auto;
     width: 570px;
-    background: #904a4a;
+    /* background: #904a4a; */
     /* margin-left: 700px; */
     margin-left: 150px;
     padding: 10px;

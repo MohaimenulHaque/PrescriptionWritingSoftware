@@ -14,7 +14,7 @@
 
     <link rel="stylesheet" href="CSS/jquery.cleditor.css">
 
-    
+
 
 </head>
 
@@ -118,10 +118,9 @@
     <script src="js/main.js"></script>
 
     <script>
-        if ( window.history.replaceState ) 
-            {
-                window.history.replaceState( null, null, window.location.href );
-            }
+        if (window.history.replaceState) {
+            window.history.replaceState(null, null, window.location.href);
+        }
     </script>
 
 </body>

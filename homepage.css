@@ -208,7 +208,7 @@ nav a:nth-child(5):hover~.animation{
 .value{
     border: none;
     /* margin: 0 auto; */
-    padding: 5px 4px 0 4px;
+    padding: 4px 4px 3px 4px;
     display: flex;
     min-width: 200px;
     min-height: 20px;
@@ -223,7 +223,7 @@ nav a:nth-child(5):hover~.animation{
 }
 .unit{
     margin: 0;
-    padding: 5px 4px 0 4px;
+    padding: 4px 4px 2px 4px;
     display: flex;
     width: 60px;
     max-width: 60px;
@@ -272,6 +272,7 @@ nav a:nth-child(5):hover~.animation{
     padding: 10px;
     width: 1120px;
     height: 800px;
+    /* height: 100%; */
     /* background: #50dec1; */
     background: linear-gradient(to right, #58ceb7, #1aa5b1);
 }

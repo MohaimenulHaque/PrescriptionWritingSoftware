@@ -23,7 +23,7 @@
 
             if($_POST['token'] == " "){
                 ?>
-                <script>prompt('Fill up the form');</script>
+                <script>alert('Fill up the form');</script>
                 <?php
                 
             }
@@ -60,7 +60,7 @@
                 
                 // echo 'Message Send';
                 ?>
-                <script>prompt('Message Sent');</script>
+                <script>alert('Message Sent');</script>
                 <?php
                 
                 //Error Display

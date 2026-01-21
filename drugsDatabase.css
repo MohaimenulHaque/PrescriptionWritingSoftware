@@ -1,6 +1,7 @@
-body{
+body {
 	margin: 0;
 }
+
 nav{
 	position: relative;
 	margin: 0px auto 0;
@@ -76,43 +77,67 @@ nav a:nth-child(5):hover~.animation{
 /* MenuBar Design end here */
 
 
+
 /* Body Design start here */
 
-table{
+table {
 	border: 1px solid black;
 	border-collapse: collapse;
 	width: 100%;
 }
 
-th{
+th {
 	border: 1px solid black;
 
 }
-td{
+
+td {
 	border: 1px solid black;
 	text-align: center;
+	min-height: 100px;
+}
+
+.button {
+	height: 20px;
+	width: 40px;
+	/* background: #000; */
+	margin-top: -50px;
+	margin-left: 1350px;
+	display: flex;
+	justify-content: center;
+}
+
+.submit {
+	margin: 2px;
+	width: 60px;
+	height: 25px;
+	border: 1px solid black;
+	border-radius: 5px;
+	text-align: center;
+	background-color: gray;
+	color: white
 }
 
 
-.id{
+.id {
 	min-width: 50px;
 }
-.rowID{
+
+.rowID {
 	background: #960000;
 }
-.brandNane{
+
+.brandNane {
 	max-width: 80px;
 }
-.dosageType{
+
+.dosageType {
 	max-width: 60px;
 }
-.price{
+
+.price {
 	min-width: 70px;
 }
 
 
 /* Body Design end here */
-
-
-
-

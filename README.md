@@ -1,3 +1,19 @@
+# Prescription-Generator
+
+## Features
+- Generates prescription from given input
+- Keeps record of each prescription
+- Real time drug searching from the database
+
+## Development Stack
+- HTML, CSS, JavaScript
+- Bootstrap
+- jQuery
+- PHP
+- MySQL
+
+## Output
+
 This is a clinical application used by doctors to digitize patient evaluations and prescriptions. The software interface is user-friendly, designed to streamline the documentation process in outpatient or clinical settings. It combines vital data recording, drug prescription, and patient history management in a single layout.
 
 Key Features:
@@ -41,8 +57,11 @@ Benefits
 •	Enhances data retrieval for follow-up visits
 
 
+![Project Screenshot](./output/output1.png)
+![Project Screenshot](./output/output2.png)
 
-![image alt](https://github.com/MohaimenulHaque/PrescriptionWritingSoftware/blob/7904b50c80ea01fb7676e0a0706d1e0877d97b17/PWS.png)
+<!-- ![image alt](https://github.com/MohaimenulHaque/PrescriptionWritingSoftware/blob/7904b50c80ea01fb7676e0a0706d1e0877d97b17/PWS.png) -->
+
 
 
 
